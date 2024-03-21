@@ -90,6 +90,6 @@ img{
 
 .autora{
     float: right;
-    width: 150px;
-    ;
+    width: 200px;
+    border-radius: 50%;
 }
