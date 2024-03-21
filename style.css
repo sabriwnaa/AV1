@@ -21,7 +21,7 @@ body{
     font-family: "Imbue", serif;
 }
 
-img{
+.imagemsabrina{
     width: 370px;
     border-radius: 100px;
     margin: 30px 40px 10px 40px ;
@@ -58,7 +58,7 @@ h3{
 }
 
 .itemmenu{
-    background-color: rgb(71, 196, 154);
+    background-color: aquamarine; 
     padding: 20px 100px;
     color: rgb(12, 77, 63);
     border-radius: 30px;
@@ -68,9 +68,28 @@ h3{
 }
 
 .itemmenu:hover{
-    background-color: rgb(110, 241, 198);
+    background-color: rgb(71, 196, 154);
+    color: rgb(5, 43, 35);
 }
 
 .favoritos{
     margin: 10px 40px;
+}
+
+img{
+    width: 250px;
+    float: left;
+    margin: 20px 40px;
+}
+
+.itemfavorito{
+    background-color: rgb(14, 85, 70);
+    padding: 20px;
+    margin: 20px 0px;
+}
+
+.autora{
+    float: right;
+    width: 150px;
+    ;
 }
