@@ -35,7 +35,7 @@ h1{
 
 h2{
     text-align: right;
-    font-size: 60px;
+    font-size: 100px;
     margin: 20px 40px 20px 0px;
     color: rgb(255, 255, 255);
 }
@@ -92,6 +92,7 @@ img{
     background-color: rgb(26, 121, 100);
     padding: 20px;
     margin: 20px 0px;
+    
 }
 
 .autora{
@@ -101,5 +102,35 @@ img{
 }
 
 .painelmusica{
-    width: 1000px;
+    width: 850px;
+    float:none;
+}
+
+.cantoras{
+    font-size: 400%;
+    text-align: right;
+}
+
+.musica{
+    width: 320px;
+}
+
+.itemfilmes{
+    color: rgb(190, 255, 233);
+    background-color: rgb(26, 121, 100);
+    width: 380px;
+    float:left;
+    padding: 20px;
+    margin: 40px;
+    
+}
+
+.filmes{
+    font-size: 40px;
+    text-align: center;
+}
+
+.capafilme{
+    margin: 20px;
+    width: 300px;
 }
